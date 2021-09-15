@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Contact</string>
+
+
+    <string name="name">Name</string>
+    <string name="phn">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="save">Save</string>
+
+    <array name="contact">
+        <item name="contact">Select contact</item>
+        <item name="business">Personal Contact</item>
+        <item name="personal">Business Contact</item>
+    </array>
+
+    <string name="enter_name">Please enter name</string>
+    <string name="enter_phone">Enter a phone number</string>
+    <string name="ten_digit">Enter at least 10 Digit Phone number</string>
+    <string name="enter_email">Enter an Valid E-Mail Address</string>
+    <string name="enter_valid_email">Enter an Valid E-Mail Address</string>
+    <string name="enter_contact_type">Please select contact type</string>
+</resources>
